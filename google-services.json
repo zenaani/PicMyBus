@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374969761594",
+    "project_id": "picmybus",
+    "storage_bucket": "picmybus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374969761594:android:971836fa4f8691f6579a03",
+        "android_client_info": {
+          "package_name": "com.zen.picmybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374969761594-p1kf64eqlic7aubj370p397hlnhpjfa4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zen.picmybus",
+            "certificate_hash": "6ebfa0cdfecd5d4b7b89e119ee18a585e6c04f6a"
+          }
+        },
+        {
+          "client_id": "374969761594-qs4pav0qb5k8prnkbv9impc7nkcgjts6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-z0bKgK-fAidq0dcNd1DNl8T9AAVuOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374969761594-qs4pav0qb5k8prnkbv9impc7nkcgjts6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
